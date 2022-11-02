@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Ana Julia, estudante de ADS e analista de suporte a sistemas! 👋
 
 - 🔭 Hoje trabalho como analista de suporte a sistemas
-- 🌱 Estudando SQL
-- 😄 Pronouns: Ela/Dela
+- 🌱 Estudando HTML, CSS e Java Script
+- 😄 Ela/Dela
 
 <div align="center">
   <a href="https://github.com/n4ju15">
